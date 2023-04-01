@@ -1,0 +1,1 @@
+- Deploy project on web server e.g xampp in htdocs folder
